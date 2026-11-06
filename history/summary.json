@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfinn.oprimoguslab.xyz.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "95.78%",
+    "uptime": "95.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.78%",
-    "uptimeYear": "95.78%",
+    "uptimeMonth": "95.96%",
+    "uptimeYear": "95.96%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -24,17 +24,19 @@
     "url": "https://intimai.oprimoguslab.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/intimai.oprimoguslab.xyz.ico",
     "slug": "intimai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 594,
-    "timeWeek": 622,
-    "timeMonth": 614,
-    "timeYear": 614,
-    "dailyMinutesDown": {}
+    "time": 578,
+    "timeDay": 353,
+    "timeWeek": 558,
+    "timeMonth": 578,
+    "timeYear": 578,
+    "dailyMinutesDown": {
+      "2026-11-06": 0
+    }
   }
 ]
